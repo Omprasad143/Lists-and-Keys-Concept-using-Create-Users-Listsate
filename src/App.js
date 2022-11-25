@@ -6,10 +6,10 @@ const userDetails = [
     {
     
     uniqueNo: 1,
-    imageUrl = "https://assets.ccbp.in/frontend/react-js/esther-howard-img.png",
+    imageUrl : "https://assets.ccbp.in/frontend/react-js/esther-howard-img.png",
 
-    name = "Omprasad",
-    role = "Software Developer",
+    name : "Omprasad",
+    role : "Software Developer",
 
 } ,
 
@@ -17,28 +17,28 @@ const userDetails = [
  {
 
      uniqueNo: 2,
-    imageUrl = "https://assets.ccbp.in/frontend/react-js/floyd-miles-img.png",
+    imageUrl : "https://assets.ccbp.in/frontend/react-js/floyd-miles-img.png",
 
-    name = "Anji",
-    role = "Software Developer",
-
-} ,
- {
-
-     uniqueNo: 3,
-    imageUrl = "https://assets.ccbp.in/frontend/react-js/jacob-jones-img.png",
-
-    name = "Sai",
-    role = "Software Developer",
+    name: "Anji",
+    role: "Software Developer",
 
 } ,
  {
 
      uniqueNo: 3,
-    imageUrl = "https://assets.ccbp.in/frontend/react-js/devon-lane-img.png",
+    imageUrl: "https://assets.ccbp.in/frontend/react-js/jacob-jones-img.png",
 
-    name = "Rammohan",
-    role = "Software Developer",
+    name: "Sai",
+    role: "Software Developer",
+
+} ,
+ {
+
+     uniqueNo: 3,
+    imageUrl: "https://assets.ccbp.in/frontend/react-js/devon-lane-img.png",
+
+    name: "Rammohan",
+    role: "Software Developer",
 
 } ,
 ]
